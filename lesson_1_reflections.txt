@@ -1,0 +1,1 @@
+draws attention to anything added or deleted (i.e. changed), saving the effort of scanning through hundreds or thousands of lines of code (twice).
